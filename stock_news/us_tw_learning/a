@@ -1,2 +1,0 @@
-date,reviewedAt,total,strongHits,normalHits,misses,hitRate,summary
-2026-06-09,2026-06-09T11:07:01.345Z,16,4,5,7,56.25,本次驗證 16 檔，強命中 4 檔，普通命中 5 檔，失敗 7 檔。 今日命中率 56.25%。
