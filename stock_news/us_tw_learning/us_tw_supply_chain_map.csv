@@ -1,16 +1,2 @@
 usTicker,usCompany,theme,product,twCode,twName,twRole,relationship,benefitReason,confidence,lastEvidenceDate,lastEvidenceTitle,hitCount,updatedAt
-NVDA,NVIDIA,AI Server,Vera Rubin GPU / CoWoS Packaging,2330,台積電,晶圓代工與先進封裝,先進製程晶圓代工與 CoWoS 封裝,美光宣布其 HBM4 獲得 NVIDIA 下世代 Vera Rubin AI 平台認證，驗證該平台正加速開發推進。台積電為 NVIDIA Rubin GPU 與 CoWoS 封裝的獨家代工廠，雖然短期面臨專利訴訟，但分析師仍看好為逢低佈局良機。,10,2026/06/11,美光HBM4獲輝達認證 強化AI平台布局,4,2026/06/11 15:02:01 JST
-ANET,Arista Networks,AI Network Switch,AI Switch / Ethernet Switch,2345,智邦,網通,白牌高階網路交換器 ODM,智邦股東會表示今年需求相較去年更強，且海內外加速擴產。Arista 是高階網路交換器市場的重要客戶，智邦產能加速開出將直接受惠。,10,2026/06/11,智邦看今年需求更勝去年，海內外加速擴產卡位商機,4,2026/06/11 15:02:01 JST
-VRT,Vertiv Holdings,Liquid Cooling,CDU / Liquid Cooling Systems,3017,奇鋐,散熱,3D VC 與液冷散熱模組供應,Vertiv雖因利率敏感而股價短期承壓，但其資料中心與電力基礎設施強勁需求故事不變。奇鋐作為其液冷及3D VC主要散熱夥伴持續受惠,9,2026/06/07,Vertiv在多年大漲後回檔，估值再度成為焦點,3,2026/06/11 12:17:02 JST
-VRT,Vertiv Holdings,Liquid Cooling,Water Cold Plate / Liquid Cooling Systems,3324,雙鴻,散熱,水冷板及液冷散熱方案供應,Vertiv所代表的AI資料中心散熱基礎設施升級趨勢不變，水冷需求長線展望仍佳，雙鴻作為水冷板主要供應商將同步受益,9,2026/06/07,Vertiv在多年大漲後回檔，估值再度成為焦點,3,2026/06/11 12:17:02 JST
-AAPL,Apple,AI Phone,iPhone 18 / Apple Intelligence,2317,鴻海,ODM,iPhone 整機代工,蘋果即將舉辦WWDC並揭櫫最新AI布局藍圖，預期帶動後續AI Phone換機潮。鴻海作為主要iPhone組裝廠將直接受益於硬體需求,9,2026/06/08,庫克任期最後一場WWDC登場，蘋果接班與AI藍圖受關注,3,2026/06/11 12:17:02 JST
-MRVL,Marvell Technology,Custom ASIC,Custom AI ASIC / Optical DSP,3661,世芯-KY,IC設計,客製化 AI 晶片設計與 IP 授權,黃仁勳肯定Marvell在客製化AI晶片與連接技術的優勢，顯示ASIC整體市場成長潛力龐大。世芯-KY技術領先，可同步受惠此產業紅利,8,2026/06/08,黃仁勳點名Marvell有望成為下一家兆元市值公司,3,2026/06/11 12:17:02 JST
-MU,Micron,HBM,HBM3e / DRAM,6239,力成,封測,記憶體先進封測服務,輝達肯定AI記憶體短缺將持續多年，美光將持續受惠HBM3e強勁需求。力成提供美光先進封裝及記憶體代工，雖美光股價短線遭遇賣壓，但長線需求獲支撐,8,2026/06/08,黃仁勳稱AI記憶體短缺將持續數年，美光與SanDisk受惠,3,2026/06/11 12:17:02 JST
-LITE,Lumentum Holdings,CPO / Optical,Optical transceiver / Laser chip,3081,聯亞,光通訊,矽光雷射晶圓代工與磊晶供應,Lumentum受惠於光網路成長趨勢，矽光子與高速傳輸元件需求升溫，帶動磊晶廠聯亞的營運增長,8,2026/06/08,Lumentum仍有機會搭上光網路動能,2,2026/06/11 12:05:19 JST
-NVDA,NVIDIA,Robot / Embodied AI,Isaac GR00T / Cosmos 3 World Model,2359,所羅門,IC設計,AI 視覺與機器人應用軟硬體整合,輝達強力推動機器人與實體AI，推出Isaac GR00T等開源工具，所羅門作為AI視覺及機器人軟硬體整合夥伴，長期成長空間擴大,8,2026/06/08,輝達推動機器人與實體AI布局，拓展下一成長曲線,2,2026/06/11 12:05:19 JST
-LITE,Lumentum Holdings,CPO,Optical transceiver / Laser chip,3081,聯亞,光通訊,矽光雷射晶圓代工與磊晶供應,Lumentum受惠於AI與高速光網路動能成長，聯亞作為其矽光雷射與相關磊晶的主力代工廠，營運將隨高速傳輸市場一同向上,8,2026/06/08,Lumentum仍有機會搭上光網路動能,1,2026/06/11 12:17:02 JST
-NVDA,NVIDIA,Robot,Embedded AI / Isaac GR00T / Cosmos 3 World Model,2359,所羅門,IC設計,AI 視覺與機器人應用軟硬體整合,輝達持續推出開源機器人與實體AI工具（如Cosmos 3與Isaac GR00T），所羅門作為AI視覺與機器人解決方案整合商，將深度參與其生態系,8,2026/06/08,輝達推動機器人與實體AI布局，拓展下一成長曲線,1,2026/06/11 12:17:02 JST
-MU,Micron,HBM,HBM4,6239,力成,封測,記憶體先進封測服務,美光 HBM4 已順利獲得輝達預計推出的 Vera Rubin AI 平台認證，將加速並擴大美光在 HBM 市場的市佔率；力成作為美光長期的記憶體先進封測夥伴，可望迎來更多先進封裝需求。,8,2026/06/11,美光HBM4獲輝達認證 強化AI平台布局,1,2026/06/11 15:02:01 JST
-MU,Micron,NAND Flash / DRAM,DRAM / NAND Flash Module,8299,群聯,IC設計,記憶體控制 IC 與模組,美光股價大跌並暗示 AI 晶片與記憶體短期估值面臨質疑，群聯身為模組同業，可能短期受市況與報價觀望情緒的壓抑影響,6,2026/06/08,美光暴跌考驗AI記憶體題材，估值與內部人賣股訊號浮現,1,2026/06/11 11:49:45 JST
-MU,Micron,NAND Flash,DRAM / NAND Flash Module,8299,群聯,IC設計,記憶體控制 IC 與模組,黃仁勳強調供應鏈緊張、AI記憶體包括NAND與DRAM長線供需結構改善。群聯在控制IC與模組端的技術及與大廠合作關係使其具備防禦性及成長動能,6,2026/06/08,黃仁勳稱AI記憶體短缺將持續數年，美光與SanDisk受惠,1,2026/06/11 12:17:02 JST
-LITE,Lumentum Holdings,CPO,Laser chip / Optical transceiver,3081,聯亞,光通訊,矽光雷射晶圓代工與磊晶供應,中國政府管控磷化銦出口，磷化銦是高速光學晶片與雷射的重要原料，受此影響，Lumentum 等大廠在高速雷射晶片的材料供應面臨威脅。聯亞作為 Lumentum 雷射晶圓與磊晶的核心代工廠，短期內訂單與出貨排程可能因原料供應卡關而蒙受不確定性考驗，故降低其 confidence。,6,2026/06/11,中國管控磷化銦出口 威脅AI資料中心建設進度,1,2026/06/11 15:02:01 JST
+
