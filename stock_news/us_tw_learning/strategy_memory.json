@@ -1,23 +1,23 @@
 	{
-  "updatedAt": "2026/06/11 22:47:05 TPE",
+  "updatedAt": "2026/06/11 22:53:03 TPE",
   "themeWeights": {
-    "HBM / 矽晶圓材料": 2,
-    "DRAM / NAND": 1,
-    "NAND / 儲存控制": 0.5,
+    "HBM / 矽晶圓材料": 3,
+    "DRAM / NAND": 3,
+    "NAND / 儲存控制": 1.5,
     "CCL / 銅箔基板": 0.5,
     "AI Chip / Foundry": -1,
-    "AI Server": -1,
-    "封測 / 先進封裝": -1,
+    "AI Server": -1.5,
+    "封測 / 先進封裝": 0,
     "ASIC / IP": -1
   },
   "triggerWeights": {
-    "MU": 2.5,
-    "NVDA": -1.5,
-    "DELL": -0.5,
+    "MU": 7.5,
+    "NVDA": 0,
+    "DELL": -1,
     "AMD": -1,
     "KLAC": -1,
     "ASML": -1,
     "AVGO": -1
   },
-  "sampleSize": 18
+  "sampleSize": 27
 }
