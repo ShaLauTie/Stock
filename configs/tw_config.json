@@ -1,0 +1,17 @@
+{
+  "market_name": "台股",
+  "timezone": "Asia/Taipei",
+  "github": {
+    "directory": "stock_news",
+    "hash_file_raw_url": "https://raw.githubusercontent.com/ShaLauTie/Stock/main/stock_news/processed_hashes.json"
+  },
+  "rss": {
+    "sources": [
+      { "name": "Yahoo台股", "url": "你的台股RSS連結1" },
+      { "name": "經濟日報", "url": "你的台股RSS連結2" }
+    ]
+  },
+  "llm": {
+    "system_prompt": "你是一位專業的台灣股市分析師。請針對以下新聞內容，擷取重點、分析對台股的影響，並以繁體中文輸出指定的 JSON 格式。..."
+  }
+}

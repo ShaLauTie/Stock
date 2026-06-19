@@ -1,0 +1,17 @@
+{
+  "market_name": "美股",
+  "timezone": "America/New_York",
+  "github": {
+    "directory": "us_stock_news",
+    "hash_file_raw_url": "https://raw.githubusercontent.com/ShaLauTie/Stock/main/us_stock_news/processed_hashes.json"
+  },
+  "rss": {
+    "sources": [
+      { "name": "Yahoo Finance", "url": "https://finance.yahoo.com/news/rss" },
+      { "name": "CNBC", "url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?id=10000664" }
+    ]
+  },
+  "llm": {
+    "system_prompt": "你是一位華爾街資深分析師。請針對以下美股新聞內容，擷取重點、分析對美股板塊的影響，並以繁體中文輸出指定的 JSON 格式。..."
+  }
+}
