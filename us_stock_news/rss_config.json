@@ -1,0 +1,8 @@
+{
+  "sources": [
+    {
+      "name": "美股1",
+      "url": " http://finance.yahoo.com/rss/headline?s=MSFT,AAPL,NVDA,GOOGL,AMZN,META,TSLA,PLTR,CRM,IGV,BE,PLUG,AMD,INTC,NOK,ANET,DELL,IREN,MU,COHR"
+    }
+  ]
+}
