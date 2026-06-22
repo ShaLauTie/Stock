@@ -1,0 +1,36 @@
+{
+  "market": "TW",
+  "timezone": "Asia/Taipei",
+  "scan_window": {
+    "start": "09:00",
+    "end": "09:10",
+    "interval_minutes": 1
+  },
+  "groups": [
+    {
+      "name": "記憶體",
+      "tickers": ["2344", "2408", "8299", "4967"],
+      "rank_by": "turnover"
+    },
+    {
+      "name": "被動元件",
+      "tickers": ["2327", "2492", "3026", "2375"],
+      "rank_by": "turnover"
+    },
+    {
+      "name": "功率元件",
+      "tickers": ["8261", "3714", "5425", "3016"],
+      "rank_by": "turnover"
+    },
+    {
+      "name": "台積電概念",
+      "tickers": ["2330", "3131", "3661", "6183"],
+      "rank_by": "turnover"
+    }
+  ],
+  "rules": {
+    "min_avg_change_pct": 1.0,
+    "min_up_ratio": 0.5,
+    "top_n": 3
+  }
+}
